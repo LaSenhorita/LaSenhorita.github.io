@@ -21,7 +21,8 @@ ui:
   posts_list_style: 'group'
   # posts_list_style: 'simple'
   # posts_list_style: 'normal'
-favicon: 'icons-ghostcat'
+favicon: 'icons-s'
+# favicon: 'icons-ghostcat'
 # favicon: 'icons-holdcat'
 # favicon: 'icons-sharp'
 hero:
